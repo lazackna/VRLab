@@ -1,0 +1,16 @@
+After report Labsafety application 
+ 
+clothe pieces selected: 
+	- modifiedLongBlueJeans
+	- labCoat
+	- Kort haar
+	- modifiedLeatherShoes
+
+List of unfinished level: 
+	- Level: Burner 
+		Tasks in this level: 
+			- pick up the burner, task was unfinished
+			- use the different flames with the burner, task was unfinished
+			- clean the lab after the exercise, task was unfinished
+		All the interactions: 
+		result of this level: False
